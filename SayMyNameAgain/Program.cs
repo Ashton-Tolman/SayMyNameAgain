@@ -1,7 +1,7 @@
 ﻿/* Ashton Tolman
  * Spring 2026
- * SimpleCalculator
- * https://github.com/Ashton-Tolman/SimpleCalcluator.git
+ * SayMyNameAgain
+ *https://github.com/Ashton-Tolman/SayMyNameAgain.git
  */
 namespace SayMyNameAgain
 {
